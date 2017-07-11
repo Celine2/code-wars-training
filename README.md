@@ -1,6 +1,6 @@
 # Inscrivez vous sur codewars
 
-Réaliser les exercices suivant en Mob programming:
+Réaliser les exercices suivant en pair programming:
 
 - [Welcome](https://www.codewars.com/kata/welcome/train/javascript);
 - [Bug fixing loop](https://www.codewars.com/kata/unfinished-loop-bug-fixing-number-1/train/javascript);
